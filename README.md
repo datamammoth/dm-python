@@ -1,9 +1,7 @@
 # DataMammoth Python SDK
 
-Official Python client for the [DataMammoth API v2](https://data-mammoth.com/api-docs).
+Official Python client for the [DataMammoth API v2](https://data-mammoth.com/api-docs/reference).
 
-[![PyPI version](https://img.shields.io/pypi/v/datamammoth.svg)](https://pypi.org/project/datamammoth/)
-[![Python](https://img.shields.io/pypi/pyversions/datamammoth.svg)](https://pypi.org/project/datamammoth/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Installation
